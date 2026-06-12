@@ -1,0 +1,106 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="VS-FELBMAzHasDvFZ0iQ">
+    <mxGraphModel dx="1042" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-2" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="tkdQAQ2msCoEQOdS6-YO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="start" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-4" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tkdQAQ2msCoEQOdS6-YO-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-6" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="tkdQAQ2msCoEQOdS6-YO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-8" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="tkdQAQ2msCoEQOdS6-YO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-10" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="tkdQAQ2msCoEQOdS6-YO-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-16" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tkdQAQ2msCoEQOdS6-YO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create dossier $name_$firstname" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-14" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tkdQAQ2msCoEQOdS6-YO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="create dossier Documents" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-22" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="create dossier Projets" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-19" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="create dossier Archives" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-12" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tkdQAQ2msCoEQOdS6-YO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="create bienvenu.txt" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-26" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="text append&#39;&lt;span style=&quot;background-color: initial; color: inherit; font-family: inherit; font-size: inherit; text-align: left;&quot;&gt;Bonjour Prénom Nom,&lt;/span&gt;&lt;pre class=&quot;CodeMirror-line&quot; role=&quot;presentation&quot; style=&quot;box-sizing: border-box; font-family: inherit; break-inside: avoid; padding: 0px 4px; border-radius: 0px; border-width: 0px medium 0px 0px; background: 0px 0px rgb(248, 248, 248); font-size: 14.4px; margin: 0px; text-wrap-mode: wrap; overflow-wrap: break-word; color: rgb(51, 51, 51); z-index: 2; position: relative; overflow: visible; word-break: normal; border-right-style: none; border-right-color: currentcolor; width: inherit; text-align: left;&quot;&gt;&lt;span role=&quot;presentation&quot; style=&quot;box-sizing: border-box; padding-right: 0.1px;&quot;&gt;Bienvenue dans l’entreprise.&lt;/span&gt;&lt;/pre&gt;&lt;pre class=&quot;CodeMirror-line&quot; role=&quot;presentation&quot; style=&quot;box-sizing: border-box; font-family: inherit; break-inside: avoid; padding: 0px 4px; border-radius: 0px; border-width: 0px medium 0px 0px; background: 0px 0px rgb(248, 248, 248); font-size: 14.4px; margin: 0px; text-wrap-mode: wrap; overflow-wrap: break-word; color: rgb(51, 51, 51); z-index: 2; position: relative; overflow: visible; word-break: normal; border-right-style: none; border-right-color: currentcolor; width: inherit; text-align: left;&quot;&gt;&lt;span role=&quot;presentation&quot; style=&quot;box-sizing: border-box; padding-right: 0.1px;&quot;&gt;Ce dossier a été créé automatiquement le JJ.MM.AAAA.&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="230" width="130" x="610" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-20" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="copy-items from $chemin_menant_au_&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dossier_Templates&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;to Documents&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-18" edge="1" parent="1" source="tkdQAQ2msCoEQOdS6-YO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="370" />
+              <mxPoint x="150" y="370" />
+            </Array>
+            <mxPoint x="150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkdQAQ2msCoEQOdS6-YO-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="create log.txt" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
